@@ -147,7 +147,7 @@ vim /usr/bin/myss
 
 5. 命令myss start / stop 即可打开关闭shadowsocks
 6. 配置firefox用VPN上网
-![image](https://github.com/mingzhi198/CentOS-Linux-shadowsocks/blob/master/firefox-shadowsocks.png）
+![image](https://github.com/mingzhi198/CentOS-Linux-shadowsocks/blob/master/firefox-shadowsocks.png)
 a. 首选项－> 高级 －> 网络 －> 设置 －> 配置访问国际互联网的代理
 b. 选中 “手动配置代理“，
 
