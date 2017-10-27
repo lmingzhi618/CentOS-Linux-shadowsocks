@@ -18,7 +18,9 @@ CentOS/Linux 安装shadowsocks 翻墙
             pip install shadowsocks
 
     b. 手动安装
-        下载shadowsocks源码：https://pypi.python.org/packages/02/1e/e3a5135255d06813aca6631da31768d44f63692480af3a1621818008eb4a/shadowsocks-2.8.2.tar.gz
+        下载shadowsocks源码：
+        https://pypi.python.org/packages/02/1e/e3a5135255d06813aca6631da31768d44f63692480af3a1621818008eb4a/shadowsocks-2.8.2.tar.gz
+        
         解压后， python setup.py install
 
 2. 安装 privoxy
