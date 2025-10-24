@@ -1,4 +1,4 @@
-# CentOS/Linux 安装shadowsocks 翻墙
+# How to Use Shadowsocks VPN on CentOS Linux
 CentOS/Linux 安装shadowsocks 翻墙
 
 工作原因， 经常需要上google查资料， 所以不得不翻墙， 因为工作基本都是用的centos/linux， 将其配置过程记录下来， 以备忘或帮助有相同需求的同学。
